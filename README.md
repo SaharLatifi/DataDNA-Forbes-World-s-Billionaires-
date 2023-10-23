@@ -3,4 +3,4 @@
 
 
 Link to the report:
-https://app.powerbi.com/groups/dadc938f-7f2b-4eb4-a735-a03452dca305/reports/6b887565-b964-4633-845d-3219a212d201/ReportSection248e428c4ed90063b850?experience=power-bi
+https://app.powerbi.com/view?r=eyJrIjoiYTdkZThkMjgtNGJkOS00ZDMzLWI5ZjQtNjgwMGJkNDZmZDIyIiwidCI6IjM2Zjk5MzhhLTBiZjQtNGQ4OC1hNTYwLTJiMDdiYThmMGMzNCJ9
